@@ -1,12 +1,12 @@
 "Result of an Examination into the State of Drainage of the Houses situate in the following Streets, in the Parish of St. James, Westminster, where so many Deaths from Cholera have taken place, as set forth in the Registrar-General's Returns for the Two Weeks ending the 2nd and 9th instant, but which does not include the Deaths that have taken place after removal from the Houses to the Hospitals, or those which occurred at the Workhouse.",,,,,,,,
 Name of Street,No. of House,No. of Deaths.,Whether opposite Air Shaft.,Whether opposite untrapped Gully.,Condition of Dust Bin,"Description of Drainage, whether Brick or Pipe, and condition thereof.","Whether any Cesspools, and Number.",Remarks
 Poland Street,6,2,No,No,Good,Brick and pipe drains,"Yes, 1","A cesspool exists, but the drains seem good."
-,9,1,No,"Yes, 2",Good,"Brick drains, good",Uncertain,No knowledge of cesspool being destroyed
+,9,1,No,Yes,Good,"Brick drains, good",Uncertain,No knowledge of cesspool being destroyed
 ,11,2,No,No,Good,Not ascertainable,Uncertain,No knowledge of cesspool being destroyed; probably brick drain
 ,14,1,No,No,Good,Not ascertainable,Uncertain,No knowledge of cesspool being destroyed.
 ,19,1,No,No,Good,Not ascertainable,Uncertain,No knowledge of cesspool being destroyed.
 ,47,3,No,No,Good,Not ascertainable,"Yes, 1","Cesspool exists, and drainage bad."
-,51,3,No,"Yes, 2",Good,Not ascertainable,Uncertain,No knowledge of cesspool being destroyed.
+,51,3,No,Yes,Good,Not ascertainable,Uncertain,No knowledge of cesspool being destroyed.
 ,55,1,No,No,Good,Pipe drains,No,"Drainage good, and cesspools destroyed"
 ,57,1,No,No,Good,Pipe drains,No,"Drainage good, and cesspools destroyed"
 ,59,2,No,No,Good,Not ascertainable,Uncertain,Probably old brick drains; No knowledge of cesspool being destroyed.
@@ -61,7 +61,7 @@ Marshall Street,1,1,No,No,Good,"Brick drain, old and bad",Uncertain,No knowledge
 Berwick Street,4,1,No,Yes,Good,Not ascertainable,Uncertain,Probably old brick drains; No knowledge of cesspool being destroyed.
 ,5,2,No,Yes,Good,Not ascertainable,Uncertain,Probably old brick drains; No knowledge of cesspool being destroyed.
 ,6,1,No,No,Good,Not ascertainable,Uncertain,Probably old brick drains; No knowledge of cesspool being destroyed.
-,9,1,-,-,-,-,-,Refused admittance.
+,9,1,-,,-,-,-,Refused admittance.
 ,10,2,No,No,Good,Brick drains,Uncertain,No knowledge of cesspool being destroyed.
 ,12,1,No,No,Good,-,Uncertain,Refused admittance.
 ,13,2,No,No,Good,Not ascertainable,Uncertain,Probably old brick drain; No knowledge of cesspool being destroyed.
@@ -197,7 +197,7 @@ Silver Street,1,1,No,No,Good,Not ascertainable,Uncertain,Probably brick drains; 
 Upper James Street,3,1,No,No,Good,Brick drains,No,-
 ,4,1,No,Near,Good,Brick drains,Uncertain,Bad smells occasionally; no knowledge of cesspool being destroyed.
 Upper John Street,7,1,No,No,Good,Not ascertainable,Uncertain,Probably old brick drains; no knowledge of cesspools being destroyed.
-Golden Square,32,3,No,"Yes, 3",Good,Brick drains in good order,No,Drains appear effective.
+Golden Square,32,3,No,Yes,Good,Brick drains in good order,No,Drains appear effective.
 Brewer Street,1,4,Yes,No,Good,Brick and pipe drains,No,Drains appear in very good order.
 Bridle Lane,12,1,No,No,Good,"Pipe drains, 2 years old",No,Drainage effective.
 ,19,2,No,No,-,-,-,House shut up.
